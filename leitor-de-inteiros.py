@@ -1,0 +1,5 @@
+x=int(input())
+x=x+10*int(input())
+x=x+100*int(input())
+x=x+1000*int(input())
+print(x)
